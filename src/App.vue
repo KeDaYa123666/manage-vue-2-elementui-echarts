@@ -20,9 +20,7 @@ import router from './router';
 
 export default {
   name: 'App',
-  components: {
-
-  }
+  components: {}
 }
 </script>
 
