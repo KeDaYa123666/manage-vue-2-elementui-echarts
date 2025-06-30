@@ -1,1 +1,1 @@
-# manage-vue-2-3-elementui-echarts
+# manage-vue-2-elementui-echarts
